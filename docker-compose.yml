@@ -4,6 +4,9 @@ services:
   keycloak:
     image: quay.io/keycloak/keycloak:legacy
 
+    ports:
+      - "8443:8443"
+
     environment:
     
       KEYCLOAK_USER: admin
