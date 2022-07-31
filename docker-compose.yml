@@ -22,6 +22,6 @@ services:
       
       DB_PORT: 3306
       
-      JAVA_OPTS_APPEND: "-Djboss.as.management.blocking.timeout=7200"
+      # JAVA_OPTS_APPEND: "-Djboss.as.management.blocking.timeout=7200"
       
-      JDBC_PARAMS: "connectTimeout=30000"
+      # JDBC_PARAMS: "connectTimeout=30000"
