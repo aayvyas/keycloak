@@ -13,7 +13,7 @@ services:
 
       KEYCLOAK_PASSWORD: admin
 
-      DB_ADDR: keycloak.c9rtbg5m3hwd.us-east-1.rds.amazonaws.com
+      DB_ADDR: keycloak.cvnyifoye55o.us-east-1.rds.amazonaws.com
 
       DB_USER: root
 
