@@ -13,7 +13,7 @@ services:
 
       KEYCLOAK_PASSWORD: admin
 
-      DB_ADDR: keycloak.cvnyifoye55o.us-east-1.rds.amazonaws.com
+      DB_ADDR: ps-travel-aggregator-db.c5ulg7riu3vf.us-east-1.rds.amazonaws.com
 
       DB_USER: root
 
