@@ -3,6 +3,6 @@ services:
   search-microservice:
     image : aayvyas/pstasearch
     ports:
-      - "8081:8081"
+      - "8080:8080"
 
       
