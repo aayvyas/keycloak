@@ -1,8 +1,8 @@
 version: '3.7'
 services:
   search-microservice:
-    image : aayvyas/ps-ta-search-microservice
+    image : aayvyas/pstasearch
     ports:
-      - "8080:8080"
+      - "8081:8081"
 
       
