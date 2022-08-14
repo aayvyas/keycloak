@@ -1,6 +1,6 @@
 version: '2'
 services:
-    search-microservice:
+  search-microservice:
     image : aayvyas/ps-ta-search-microservice
     ports:
       - "8080:8080"
