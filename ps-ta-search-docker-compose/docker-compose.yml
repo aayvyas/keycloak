@@ -1,0 +1,8 @@
+version: '3.7'
+services:
+  discovery-server:
+    image : aayvyas/ps-ta-search-microservice
+    ports:
+      - "8080:8080"
+
+      
