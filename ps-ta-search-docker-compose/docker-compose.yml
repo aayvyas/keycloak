@@ -1,7 +1,7 @@
 version: '3.7'
 services:
   search:
-    image : aayvyas/pstasearch
+    image : stevesam/psta-search_microservice
     ports:
       - "8080:8080"
 
